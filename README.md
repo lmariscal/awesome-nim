@@ -112,6 +112,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 * [SDL2](https://github.com/Vladar4/sdl2_nim) - Wrapper for SDL 2. [MIT]
 * [GLAD](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. [MIT]
 * [nim-glm](https://github.com/stavenko/nim-glm) - Port of the popular glm C++ library to Nim. [MIT]
+* [NimGL](https://github.com/nimgl/nimgl) - Offers bindings for popular libraries used in computer graphics. ImGui, GLFW, OpenGL and Vulkan. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
